@@ -13,4 +13,5 @@ import { UserEntity } from 'src/modules/user/entities/user.entity';
   providers: [],
   exports: [],
 })
-export class UserModule {}
+export class UserModule {
+}
